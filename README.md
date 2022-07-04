@@ -10,6 +10,6 @@
 1. Create folder `~/.warp/themes` 
 1. Add `panda_syntax.yml` to `~/.warp/themes`
 1. Open warp
-1. press `CMD + P` to open command bar
-1. type "Open theme picker"
+1. Press `CMD + P` to open command bar
+1. Type "Open theme picker"
 1. Select "Panda Syntax"
